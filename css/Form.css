@@ -1,0 +1,73 @@
+#Container1{
+    position: absolute;
+  margin-left: 25em;
+}
+#std,#gur{
+    text-decoration: underline;
+    text-align: center;
+}
+#first_three{
+    width: 50%;
+}
+#grd-data{
+    width: 57%;
+}
+#image_place{
+    border: 1px solid black;
+    width: 9em;
+    height: 10em;
+    position: absolute;
+   margin-left: 48%;
+   margin-top: 7%;
+   box-shadow: 1px 4px 2px black;
+   background: linear-gradient(23deg,rgb(211, 205, 205),rgb(247, 156, 156));
+}
+#image{
+    border: none;
+   position: absolute;
+    margin-top: 6em;
+    font-size: x-small;
+}
+.whole_content{
+    width:66%;
+    background-color: rgba(192, 0, 0, 0.562);
+    left: auto;
+}
+section{
+    margin-left: 2em;
+}
+.spine{
+    text-shadow: 3px 3px 1px rgb(116, 114, 114);
+}
+#manifest{
+    position: relative;
+    align-items: center;
+}
+form label{
+    margin:0 10px 3px 3px;
+}
+#sts{
+    margin-left: 20%;
+    position: relative;
+    /* position: absolute; */
+    
+}
+
+
+
+
+
+
+input{
+    border: none;
+    border-bottom: 1px solid rgb(7, 7, 7);
+    background: none;
+}
+input:focus{
+    outline: none;
+}
+
+form{
+margin-left: 1em;
+
+}
